@@ -1,4 +1,4 @@
-### Heyya, traveler 👋
+## Heyya, traveler 👋
 
 I'm a hardware student, Linux admin, DevOps engineer, C/Python dev and overall just a curious fellow.
 
@@ -12,6 +12,8 @@ I'm a hardware student, Linux admin, DevOps engineer, C/Python dev and overall j
 
 Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/)!
 
+### Repositories at a glance:
+
 #### 🛠 Hardware:
 - [ShiftBoard](https://github.com/JamFox/Shiftboard): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to build the fastest split keyboard ever with RP2040 and shift registers.
 
@@ -24,7 +26,7 @@ Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/)!
 
 
 #### 🗃️ Administration: 
-- [mediaserver.jamfox.dev](https://github.com/JamFox/mediaserver.jamfox.dev) [🚧 PRIVATE & UNDER CONSTRUCTION: migrating to a new homeserver and new repo 🚧]: Docker fleet for a home mediaserver featuring Wireguard, Transmission, Jackett, Flaresolverr, Radarr, Sonarr, Swag, Plex, Jellyfin. 
+- [mediaserver.jamfox.dev](https://github.com/JamFox/mediaserver.jamfox.dev) [🚧 **PRIVATE & UNDER CONSTRUCTION**: *migrating to a new homeserver and new repo* 🚧]: Docker fleet for a home mediaserver featuring Wireguard, Transmission, Jackett, Flaresolverr, Radarr, Sonarr, Swag, Plex, Jellyfin. 
 
 
 #### 🎓 University projects:
