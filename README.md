@@ -2,7 +2,7 @@
 
 I'm a hardware student, Linux admin, DevOps engineer, C/Rust/Go/Python dev and overall just a curious fellow.
 
-Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation site [docs.jamfox.dev](https://github.com/JamFox/docs.jamfox.dev)!
+Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation site [docs.jamfox.dev](https://docs.jamfox.dev)!
 
 ### Repositories at a glance:
 
