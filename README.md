@@ -6,6 +6,10 @@ Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) 
 
 ### Repositories at a glance:
 
+#### 👨‍💻 Homelab:
+- [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash.
+
+
 #### 🛠 Hardware:
 - [ShiftBoard](https://github.com/JamFox/Shiftboard): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to build the fastest split keyboard ever with RP2040 and shift registers.
 
