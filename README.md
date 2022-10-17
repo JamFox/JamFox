@@ -8,7 +8,7 @@ Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) 
 
 #### 👨‍💻 Homelab:
 - [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash.
-
+- [jamlab-packer](https://github.com/JamFox/jamlab-packer): Packer configurations for building homelab images.
 
 #### 🛠 Hardware:
 - [ShiftBoard](https://github.com/JamFox/Shiftboard): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to build the fastest split keyboard ever with RP2040 and shift registers.
