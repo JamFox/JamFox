@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://jamfox.dev">
+    <img alt="JF" src="./images/icon.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+</h1>
+
 ## Heyya, traveler 👋
 
 I'm a hardware student, Linux admin, DevOps engineer, C/Rust/Go/Python dev and overall just a curious fellow.
