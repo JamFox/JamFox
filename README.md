@@ -27,7 +27,7 @@ Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) 
 #### 💻 Software:
 - [jamfox.dev](https://github.com/JamFox/jamfox.dev): My personal site!
 - [docs.jamfox.dev](https://github.com/JamFox/docs.jamfox.dev): My documentation site!
-- [Spotify ListLister](https://github.com/JamFox/Spotify-ListLister): Output names or IDs of a Spotify user's playlists and play a random one of any list.
+- [spotify-listlister](https://github.com/JamFox/spotify-listlister): Output names or IDs of a Spotify user's playlists and play a random one of any list.
 - [Sofle personal firmware](https://github.com/JamFox/Sofle-v2-personal-EST-keymap): Modified firmware for my Sofle V2.
 - [jamfox.github.io](https://github.com/JamFox/jamfox.github.io): Static site for a Cyberpunk tabletop role-playing game supplement, first exercise with HTML, CSS, JS.
 
