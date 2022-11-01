@@ -9,7 +9,7 @@ JamFox's GitHub Page
 
 ## Heyya, traveler 👋
 
-I'm a hardware student, Linux admin, DevOps engineer, C/Rust/Go/Python dev and overall just a curious fellow.
+I'm a hardware student, Linux admin, DevOps engineer, C/Go/Python dev and overall just a curious fellow.
 
 Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation site [docs.jamfox.dev](https://docs.jamfox.dev)!
 
