@@ -23,14 +23,14 @@ Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) 
 #### 🛠 Hardware:
 - [ShiftBoard](https://github.com/JamFox/Shiftboard): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to build the fastest split keyboard ever with RP2040 and shift registers.
 
-
 #### 💻 Software:
-- [jamfox.dev](https://github.com/JamFox/jamfox.dev): My personal site!
-- [docs.jamfox.dev](https://github.com/JamFox/docs.jamfox.dev): My documentation site!
 - [spotify-listlister](https://github.com/JamFox/spotify-listlister): Output names or IDs of a Spotify user's playlists and play a random one of any list.
 - [Sofle personal firmware](https://github.com/JamFox/Sofle-v2-personal-EST-keymap): Modified firmware for my Sofle V2.
-- [jamfox.github.io](https://github.com/JamFox/jamfox.github.io): Static site for a Cyberpunk tabletop role-playing game supplement, first exercise with HTML, CSS, JS.
 
+#### 📰 Front-end:
+- [jamfox.dev](https://github.com/JamFox/jamfox.dev): My personal site with GatsbyJS on ReactJS, Webpack, JavaScript and CSS.
+- [docs.jamfox.dev](https://github.com/JamFox/docs.jamfox.dev): My documentation site with MkDocs!
+- [jamfox.github.io](https://github.com/JamFox/jamfox.github.io): Static site for a Cyberpunk tabletop role-playing game supplement, first exercise with HTML, CSS, JS.
 
 #### 🗃️ Infrastructure: 
 - [mediaserver.jamfox.dev](https://github.com/JamFox/mediaserver.jamfox.dev) [🚧 **PRIVATE & DEPRECATED** 🚧]: Docker fleet for a home mediaserver featuring Wireguard, Transmission, Jackett, Flaresolverr, Radarr, Sonarr, Swag, Plex, Jellyfin. 
