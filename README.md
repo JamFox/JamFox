@@ -15,7 +15,7 @@ Want to know more? Check out my personal site [jamfox.dev](https://jamfox.dev/) 
 
 ### Repositories at a glance:
 
-#### 👨‍💻 Homelab:
+#### 👨‍💻 Homelab (check out the [overview](https://docs.jamfox.dev/content/homelab/) for details!):
 - [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash.
 - [jamlab-packer](https://github.com/JamFox/jamlab-packer): Packer configurations for building homelab images.
 - [jamlab-terraform](https://github.com/JamFox/jamlab-terraform): Terraform configurations for provisioning homelab VMs.
