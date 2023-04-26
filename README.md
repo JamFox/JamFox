@@ -28,8 +28,9 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 - [docs.jamfox.dev](https://github.com/JamFox/docs.jamfox.dev): My documentation site with MkDocs!
 - [jamfox.github.io](https://github.com/JamFox/jamfox.github.io): Static site for a Cyberpunk tabletop role-playing game supplement, first exercise with HTML, CSS, JS.
 
-### 🗃️ Infrastructure: 
-- [mediaserver.jamfox.dev](https://github.com/JamFox/mediaserver.jamfox.dev) [🚧 **PRIVATE & DEPRECATED** 🚧]: Docker fleet for a home mediaserver featuring Wireguard, Transmission, Jackett, Flaresolverr, Radarr, Sonarr, Swag, Plex, Jellyfin. 
+### 🗃️ Infrastructure:
+- [salt-poc](https://github.com/JamFox/salt-poc): Proof of concept for Saltstack as Ansible alternative.
+- [mediaserver.jamfox.dev](https://github.com/JamFox/mediaserver.jamfox.dev) [🚧 **PRIVATE & DEPRECATED** 🚧]: Docker fleet for a home mediaserver featuring Wireguard, Transmission, Jackett, Flaresolverr, Radarr, Sonarr, Swag, Plex, Jellyfin.
 
 
 ### 🎓 University projects:
