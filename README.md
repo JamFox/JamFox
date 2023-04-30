@@ -22,6 +22,7 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 ### 💻 Software:
 - [spotify-listlister](https://github.com/JamFox/spotify-listlister): Output names or IDs of a Spotify user's playlists and play a random one of any list.
 - [qmk_firmware fork](https://github.com/JamFox/qmk_firmware): Personal firmwares for QMK keyboards.
+- [fish-id](https://github.com/JamFox/fish-id): Pipeline for fish detection and identification using machine learning.
 
 ### 📰 Front-end:
 - [jamfox.dev](https://github.com/JamFox/jamfox.dev): My personal site with GatsbyJS on ReactJS, Webpack, JavaScript and CSS.
