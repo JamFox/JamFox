@@ -11,6 +11,9 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 
 ## Repositories at a glance:
 
+### General:
+- [dotfiles](https://github.com/JamFox/dotfiles): My dotfiles.
+
 ### 👨‍💻 Homelab (check out the [overview](https://docs.jamfox.dev/content/homelab/) for details!):
 - [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash.
 - [jamlab-packer](https://github.com/JamFox/jamlab-packer): Packer configurations for building homelab images.
@@ -32,7 +35,6 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 ### 🗃️ Infrastructure:
 - [salt-poc](https://github.com/JamFox/salt-poc): Proof of concept for Saltstack as Ansible alternative.
 - [mediaserver.jamfox.dev](https://github.com/JamFox/mediaserver.jamfox.dev) [🚧 **PRIVATE & DEPRECATED** 🚧]: Docker fleet for a home mediaserver featuring Wireguard, Transmission, Jackett, Flaresolverr, Radarr, Sonarr, Swag, Plex, Jellyfin.
-
 
 ### 🎓 University projects:
 - [Circuit Design IEE1030](https://github.com/JamFox/Circuit-Design-Project-IEE1030): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to practice making basic circuits. 
