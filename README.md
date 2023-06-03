@@ -20,6 +20,7 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 - [jamlab-ansible-old](https://github.com/JamFox/jamlab-ansible): Homelab pull-mode configuration management with Ansible and bash.
 - [jamlab-packer](https://github.com/JamFox/jamlab-packer): Packer configurations for building homelab images.
 - [jamlab-terraform](https://github.com/JamFox/jamlab-terraform): Terraform configurations for provisioning homelab VMs.
+- [rpi-waveshare-poe-hat-b-script](https://github.com/JamFox/rpi-waveshare-poe-hat-b-script): Script for installing PoE HAT (B) for Raspberry Pi 3B+/4B.
 
 ### 🛠 Hardware:
 - [ShiftBoard](https://github.com/JamFox/Shiftboard): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to build the fastest split keyboard ever with RP2040 and shift registers.
