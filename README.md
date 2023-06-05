@@ -16,7 +16,7 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 
 ### 👨‍💻 Homelab (check out the [overview](https://docs.jamfox.dev/content/homelab/) for details!):
 - [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab push-mode configuration management with Ansible.
-- [ansible-parallel](https://github.com/JamFox/ansible-parallel): Ansible parallel execution script.
+- [ansible-parallel](https://github.com/JamFox/ansible-parallel): Script to run Ansible playbooks in parallel and return shortened summary.
 - [jamlab-ansible-old](https://github.com/JamFox/jamlab-ansible-old): Homelab pull-mode configuration management with Ansible and bash.
 - [jamlab-packer](https://github.com/JamFox/jamlab-packer): Packer configurations for building homelab images.
 - [jamlab-terraform](https://github.com/JamFox/jamlab-terraform): Terraform configurations for provisioning homelab VMs.
