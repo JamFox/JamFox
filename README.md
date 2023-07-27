@@ -31,9 +31,10 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 - [fish-id](https://github.com/JamFox/fish-id): Pipeline for fish detection and identification using machine learning.
 
 ### 📰 Front-end:
-- [jamfox.dev](https://github.com/JamFox/jamfox.dev): My personal site with GatsbyJS on ReactJS, Webpack, JavaScript and CSS.
+- [wired.jamfox.dev](https://github.com/JamFox/wired.jamfox.dev): My personal site using 11ty!
+- [jamfox.dev](https://github.com/JamFox/jamfox.dev): My old personal site using GatsbyJS on ReactJS, Webpack, JavaScript and CSS.
 - [docs.jamfox.dev](https://github.com/JamFox/docs.jamfox.dev): My documentation site with MkDocs!
-- [jamfox.github.io](https://github.com/JamFox/jamfox.github.io): Static site for a Cyberpunk tabletop role-playing game supplement, first exercise with HTML, CSS, JS.
+- [jamfox.github.io](https://github.com/JamFox/jamfox.github.io): Static site for a Cyberpunk tabletop role-playing game supplement, first exercise with manual HTML, CSS, JS.
 
 ### 🗃️ Infrastructure:
 - [salt-poc](https://github.com/JamFox/salt-poc): Proof of concept for Saltstack as Ansible alternative.
