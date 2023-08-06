@@ -11,9 +11,6 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 
 ## Repositories at a glance:
 
-### General:
-- [dotfiles](https://github.com/JamFox/dotfiles): My dotfiles.
-
 ### 👨‍💻 Homelab (check out the [overview](https://docs.jamfox.dev/content/homelab/) for details!):
 - [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab push-mode configuration management with Ansible.
 - [ansible-parallel](https://github.com/JamFox/ansible-parallel): Script to run Ansible playbooks in parallel and return shortened summary.
@@ -44,3 +41,6 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 - [Circuit Design IEE1030](https://github.com/JamFox/Circuit-Design-Project-IEE1030): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to practice making basic circuits. 
 - [Algorithms and Data Structures in C Lab](https://github.com/JamFox/AlgoritmidLabor): Homework in C with a given parent data structure retrieval and modification. 
 - [Kanamaja Home Automation](https://github.com/JamFox/Kanamaja-Home-Automation): Project to automate feeding and checking on chickens with the help of a Raspberry Pi running Nginx, Flask, Gunicorn, MariaDB, Bootstrap.
+
+### General:
+- [dotfiles](https://github.com/JamFox/dotfiles): My dotfiles.
