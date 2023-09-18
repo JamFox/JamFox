@@ -14,10 +14,12 @@ Check out my personal site [jamfox.dev](https://jamfox.dev/) or my documentation
 ### 👨‍💻 Homelab (check out the [overview](https://docs.jamfox.dev/content/homelab/) for details!):
 - [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab push-mode configuration management with Ansible.
 - [ansible-parallel](https://github.com/JamFox/ansible-parallel): Script to run Ansible playbooks in parallel and return shortened summary.
-- [jamlab-ansible-old](https://github.com/JamFox/jamlab-ansible-old): Homelab pull-mode configuration management with Ansible and bash.
 - [jamlab-packer](https://github.com/JamFox/jamlab-packer): Packer configurations for building homelab images.
 - [jamlab-terraform](https://github.com/JamFox/jamlab-terraform): Terraform configurations for provisioning homelab VMs.
 - [rpi-waveshare-poe-hat-b-script](https://github.com/JamFox/rpi-waveshare-poe-hat-b-script): Script for installing PoE HAT (B) for Raspberry Pi 3B+/4B.
+
+- [jamlab-packer-old](https://github.com/JamFox/jamlab-packer-old): Packer configuration for building homelab Debian 11 image.
+- [jamlab-ansible-old](https://github.com/JamFox/jamlab-ansible-old): Homelab pull-mode configuration management with Ansible and bash.
 
 ### 🛠 Hardware:
 - [ShiftBoard](https://github.com/JamFox/Shiftboard): Project with [AntohaSimonoha](https://github.com/AntohaSimonoha) to build the fastest split keyboard ever with RP2040 and shift registers.
