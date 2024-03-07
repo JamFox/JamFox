@@ -41,6 +41,7 @@ Archive:
 - [jamfox.dev](https://github.com/JamFox/jamfox.dev): My old personal site using GatsbyJS on ReactJS, Webpack, JavaScript and CSS.
 - [docs.jamfox.dev](https://github.com/JamFox/docs.jamfox.dev): My documentation site with MkDocs!
 - [jamfox.github.io](https://github.com/JamFox/jamfox.github.io): Static site for a Cyberpunk tabletop role-playing game supplement, first exercise with manual HTML, CSS, JS.
+- [observable.jamfox.dev](https://github.com/JamFox/observable.jamfox.dev): Observable framework site, generated from markdown and code.
 
 ### 🗃️ Infrastructure:
 
