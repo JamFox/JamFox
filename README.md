@@ -34,6 +34,7 @@ Archive:
 - [spotify-listlister](https://github.com/JamFox/spotify-listlister): Output names or IDs of a Spotify user's playlists and play a random one of any list.
 - [qmk_firmware fork](https://github.com/JamFox/qmk_firmware): Personal firmwares for QMK keyboards.
 - [fish-id](https://github.com/JamFox/fish-id): Pipeline for fish detection and identification using machine learning.
+- [rust-des](https://github.com/JamFox/rust-des): Implement DES in rust for fun.
 
 ### 📰 Front-end:
 
