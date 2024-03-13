@@ -46,6 +46,7 @@ Archive:
 ### 🗃️ Infrastructure:
 
 - [salt-poc](https://github.com/JamFox/salt-poc): Proof of concept for Saltstack as Ansible alternative.
+- [Zabbix PAC3200 template](https://github.com/JamFox/zabbix-pac3200-template)
 - [mediaserver.jamfox.dev](https://github.com/JamFox/mediaserver.jamfox.dev) [🚧 **PRIVATE & DEPRECATED** 🚧]: Docker fleet for a home mediaserver featuring Wireguard, Transmission, Jackett, Flaresolverr, Radarr, Sonarr, Swag, Plex, Jellyfin.
 
 ### 🎓 University projects:
